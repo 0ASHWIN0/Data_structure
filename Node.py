@@ -13,6 +13,3 @@ class Node :
 
     def get_next_node(self):
         return self.next_node
-    
-    
-
